@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gestion_UE">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="root">
+      <element id="module-output" name="Gestion_UE_VF" />
+    </root>
+  </artifact>
+</component>
